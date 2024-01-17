@@ -1173,5 +1173,72 @@
         "img": "assets/product_description/two way cake/Shades/Shades-04.jpg"
       }
     ]
+  },
+  "XYZ": {
+    "product_title": "aaaaa",
+    "product_title_subtitle": "Oil Free",
+    "product_description": "Two Way Cake wet/dry foundation is a lasting foundation that empowers your face with a soft and velvet veil the flawless effect grants a uniform skin tone, minimizes small imperfections and gives a matte effect to your face, providing a natural brilliance.",
+    "featureProductHomePage": false,
+    "product_description_img": "assets/product_description/two way cake/post.jpg",
+    "product_additional_information_color": "Black, White, pink, etc.",
+    "product_additional_information_weight": "15gm, 20gm, 25gm",
+    "product_additional_information_lasting": "12 hours",
+    "product_additional_information_spf": "15",
+    "product_additional_information_expriy": "2 years",
+    "img": "assets/Products/Two Way Cake.jpg",
+    "link": "single_products/TwoWayCake",
+    "suggestion_1": "AquaBase",
+    "suggestion_2": "Bridalbase",
+    "suggestion_3": "CakeEyeliner",
+    "product360imgpath": "Bridal base",
+    "model_lst": [
+      {
+        "color": "#000",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": null,
+        "path": "assets/product_description/two way cake/3d model two way cake/Black/Two way cake.gltf"
+      },
+      {
+        "color": "#e7e7e7",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": null,
+        "path": "assets/product_description/two way cake/3d model two way cake/off white/Two way cake.gltf"
+      },
+      {
+        "color": "#fcd4d4",
+        "scale": 3,
+        "position": [
+          -30,
+          0,
+          80.3
+        ],
+        "type": null,
+        "path": "assets/product_description/two way cake/3d model two way cake/pink/Two way cake.gltf"
+      }
+    ],
+    "shades": [
+      {
+        "img": "assets/product_description/two way cake/Shades/Shades-01.jpg"
+      },
+      {
+        "img": "assets/product_description/two way cake/Shades/Shades-02.jpg"
+      },
+      {
+        "img": "assets/product_description/two way cake/Shades/Shades-03.jpg"
+      },
+      {
+        "img": "assets/product_description/two way cake/Shades/Shades-04.jpg"
+      }
+    ]
   }
 }
